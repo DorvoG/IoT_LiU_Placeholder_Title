@@ -1,10 +1,10 @@
-# The Talking Stairway 
-## Tutorial on how to detect vibrations from a stairway and trigger notifications over LoRa/WiFi
-> IoT examination project at LNU - Applied Internet of Things
+# Lorem Ipsum 
+## Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Nam vestibulum rhoncus lectus id hendrerit.
 
-###### tags: `IoT` `examination` `LNU` `Heltec` `ESP32` `LoRa` `Detect vibrations`
+###### tags: `IoT` `Lorem` `Ipsum` `Tumor` `Rubor` `Calor` `Dolor` `Functio Laesia`
 
-Author: Rikard Askelöf
+Author: CJG
 
 ---
 
