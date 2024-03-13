@@ -328,8 +328,8 @@ Show the final results of your project. Give your final thoughts on how you thin
 
 ### References
 
-https://github.com/Raskelof/Talking-Stairs 
-https://www.lipsum.com/
+ https://github.com/Raskelof/Talking-Stairs    
+ https://www.lipsum.com/
 
 
 
